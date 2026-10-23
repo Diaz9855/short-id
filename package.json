@@ -1,6 +1,6 @@
 {
   "name": "short-id",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "IDs from a monotonic clock that sort well and avoid collisions.",
   "type": "module",
   "main": "src/index.js",
